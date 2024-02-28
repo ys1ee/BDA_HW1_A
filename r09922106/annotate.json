@@ -1,0 +1,140 @@
+{
+    "1.mp4": [
+        {
+            "start_frame": "30",
+            "end_frame": "98",
+            "action_type": "swipe",
+            "down_coordinate": [
+                37,
+                74.5
+            ],
+            "up_coordinate": [
+                37.000000000000135,
+                18.166666666666668
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": "153",
+            "end_frame": "181",
+            "action_type": "click",
+            "down_coordinate": [
+                41.15277777777776,
+                34.16666666666669
+            ],
+            "up_coordinate": [
+                41.15277777777776,
+                34.16666666666669
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": "230",
+            "end_frame": "297",
+            "action_type": "swipe",
+            "down_coordinate": [
+                43.138888888888985,
+                80.33333333333358
+            ],
+            "up_coordinate": [
+                43.138888888890065,
+                30.000000000000092
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": "325",
+            "end_frame": "360",
+            "action_type": "swipe",
+            "down_coordinate": [
+                42.77777777777778,
+                69.66666666666667
+            ],
+            "up_coordinate": [
+                42.777777777776635,
+                31.500000000000018
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": "385",
+            "end_frame": "396",
+            "action_type": "click",
+            "down_coordinate": [
+                7.027777777777776,
+                5.416666666666668
+            ],
+            "up_coordinate": [
+                7.027777777777776,
+                5.416666666666668
+            ],
+            "type_word": null
+        }
+    ],
+    "2.mp4": [
+        {
+            "start_frame": "36",
+            "end_frame": "41",
+            "action_type": "click",
+            "down_coordinate": [
+                84.48611111111111,
+                5.666666666666667
+            ],
+            "up_coordinate": [
+                84.48611111111111,
+                5.666666666666667
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": "41",
+            "end_frame": "158",
+            "action_type": "type",
+            "down_coordinate": null,
+            "up_coordinate": null,
+            "type_word": "google"
+        },
+        {
+            "start_frame": "158",
+            "end_frame": "192",
+            "action_type": "click",
+            "down_coordinate": [
+                50.18055555555556,
+                12.333333333333334
+            ],
+            "up_coordinate": [
+                50.18055555555556,
+                12.333333333333334
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": "233",
+            "end_frame": "277",
+            "action_type": "swipe",
+            "down_coordinate": [
+                40.61111111111096,
+                82.66666666666667
+            ],
+            "up_coordinate": [
+                40.61111111111117,
+                12.16666666666673
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": "360",
+            "end_frame": "375",
+            "action_type": "click",
+            "down_coordinate": [
+                6.8472222222222205,
+                5.75
+            ],
+            "up_coordinate": [
+                6.8472222222222205,
+                5.75
+            ],
+            "type_word": null
+        }
+    ]
+}
